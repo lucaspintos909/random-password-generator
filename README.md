@@ -1,3 +1,4 @@
+[![Run tests](https://github.com/lucaspintos909/random-password-generator/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/lucaspintos909/random-password-generator/actions/workflows/run-tests.yml)
 # Random Password Generator
 > Generador de contraseñas aleatorias
 
