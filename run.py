@@ -8,7 +8,7 @@ from source import random_password_generator as rpg
 parser = argparse.ArgumentParser(description="Random Password Generator.")
 
 # add arguments
-parser.add_argument("--length", nargs="?", default="15", type=int, metavar="num",
+parser.add_argument("--length", nargs="?", default="16", type=int, metavar="num",
                     help="Password length")
 
 parser.add_argument("--numbers", nargs="?", default="1", type=int, metavar="num",
