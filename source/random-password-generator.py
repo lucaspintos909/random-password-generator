@@ -1,7 +1,7 @@
 import random
 import string
 
-def generateRandomPassword(pass_len, num_len, sym_len):
+def generateRandomPassword(pass_len = 15, num_len = 1, sym_len = 1):
 
     # Concateno las letras en minúscula y en mayúscula
     letters = string.ascii_lowercase + string.ascii_uppercase
